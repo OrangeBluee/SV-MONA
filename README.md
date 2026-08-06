@@ -11,14 +11,6 @@ Requirements
 R (≥ 4.2 recommended)
 dplyr
 igraph
-Repository Structure
-SV-MONA/
-├── input/
-├── output/
-├── SV-MONA.R
-├── LICENSE
-└── README.md
-Citation
 
 If you use SV-MONA in your research, please cite this GitHub repository and the associated publication (when available).
 
